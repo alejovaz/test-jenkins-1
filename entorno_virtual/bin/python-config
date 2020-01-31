@@ -1,4 +1,4 @@
-#!/mnt/c/Users/jvazquez/Documents/github/test-jenkins-1/entorno_virtual/bin/python
+#!/root/github/test-jenkins-1/entorno_virtual/bin/python
 
 import sys
 import getopt

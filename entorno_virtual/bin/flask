@@ -1,4 +1,4 @@
-#!/mnt/c/Users/jvazquez/Documents/github/test-jenkins-1/entorno_virtual/bin/python2
+#!/root/github/test-jenkins-1/entorno_virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

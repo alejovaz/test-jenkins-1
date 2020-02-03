@@ -1,4 +1,4 @@
-#!/root/github/test-jenkins-1/entorno_virtual/bin/python
+#!/root/github/test-jenkins-1/entorno_virtual/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -4,7 +4,7 @@ pipeline {
  stages {
         stage('Checkout-git'){
                steps{
-		git poll: true, url: 'git@github.com:javf/test-jenkins-1.git'
+		git poll: true, url: 'git@github.com:alejovaz/test-jenkins-1.git'
                }
         }
         stage('CreateVirtualEnv') {
